@@ -1,0 +1,20 @@
+p {
+    color: steelblue;
+    font-size: 14px;
+}
+.matn{
+    font-size: 22px;
+    color: blueviolet;
+}
+.cat{
+    font-size: 25px;
+    color: deepskyblue;
+}
+#fon{
+    background-color: midnightblue;
+    text-align: right;
+}
+#fan{
+    background-color: midnightblue;
+    color: white;
+}

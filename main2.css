@@ -1,0 +1,41 @@
+body{
+    background-color: cadetblue ;/* no-repeat,repeat-x,repeat-y,repeat*/
+    background-image: url("../rasm/Без названия.jfif");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 200px 150px;
+    /*background: cadetblue url("../rаsm/Без названия.jfif") no-repeat ;*/
+}
+.box{
+    color: white;
+    border:5px double white;
+    /*border-width: 5px;
+    border-style: double;
+    border-color: white;*/
+    border-top-width: 10px;
+    border-right-width: 10px;
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    line-height: 15px;
+
+}
+.block{
+    background-color: aliceblue;
+    width: 500px;
+    height: 200px;
+    /*min-width: 50px;
+    min-height: 50px;
+    max-width: 500px;
+    max-height: 200px;*/
+    /*margin: 200px 50px 30px 500px;*/
+    margin: 100px auto;
+    /*padding: 50px 100px 30px 70px;*/
+    padding-top: 40px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
